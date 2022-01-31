@@ -1,5 +1,5 @@
 ## Завдання 1
-![Завдання 1.1](https://github.com/ppc-ntu-khpi/java-0-qqqqqqqq1qqqqq/blob/master/Solution/1.1.png "Текст ")
+![Завдання 1.1](https://github.com/ppc-ntu-khpi/java-0-qqqqqqqq1qqqqq/blob/master/Solution/1.1.PNG "Текст ")
 
 ![Завдання 1.2](https://github.com/ppc-ntu-khpi/java-0-qqqqqqqq1qqqqq/blob/master/Solution/1.2.png "Текст заголовка логотипа 1")
 
